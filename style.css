@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    background-color: #c12585;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.text{
+    background-color: #7b0062 ;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+}
+.text p{
+    font-size: 20px;
+}
+.text button{
+    background-color: #fc44e9;
+    font-size: 20px;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.about{
+    
+    background-color:#212529;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 12rem 0;
+    color: #ffffff;
+}
+
+.about .first{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 400px;
+    margin-top: 20px;
+   
+}
+.about .second{
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-right: 250px;
+    font-size: 23px;
+    margin-top: 20px;
+
+}
+.textt{
+    font-size: 19px;
+    margin-left: 500px;
+    margin-top: 20px;  
+}
+.service{
+    background-color: #001d3a;
+    padding: 12rem 0;
+}
+
+.service p{
+    margin-left: 400px;
+    font-size: 25px;
+   
+}
+.head{
+    font-weight: bolder;
+}
+.parag{
+    margin-right: 390px;
+}
+
+.contact{
+    background-color:black;
+    background-position: center;
+    background-size: cover;
+    padding: 12rem 0;
+    color: #ffffff;
+}
+.contact p{
+    margin-left: 400px;
+    font-size: 25px;
+}
+
+.end{
+    background-color: #212529;
+    padding: 2rem;
+    text-align: center;
+    color: #ffffff;
+}
